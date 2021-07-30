@@ -1,5 +1,4 @@
 # python-essentials
-Python Essentials For Data Science Course 
 Hi there! welcome to the Python Essentials course, congratulations on taking your first step towards data science.
 
 Make sure to go through our prepwork, here : https://www.jungleprogram.com/onboarding-python-essentials/ 
