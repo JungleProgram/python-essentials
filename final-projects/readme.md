@@ -19,14 +19,17 @@ You can choose your final project from the following topics:
 
 
 **🤔Q : What will Friday's session be about?**
+
 *A : You will present your code, and talk about the methods you've used to solve the tasks*
 
 
 **🤔Q : What are the next steps:**
+
 *A : A personalized next steps suggestions will be sent you after your final presentation*
 
 **🤔Q : What if I need guidance after the course is finished?**
-* A: Well, the good thing about Jungle Program is that we're a community. So I'll always be happy to help you out even after our course finishes!*
+
+*A: Well, the good thing about Jungle Program is that we're a community. So I'll always be happy to help you out even after our course finishes!*
 
 
 
