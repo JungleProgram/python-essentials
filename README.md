@@ -39,10 +39,10 @@ You can find a thorough explaniation [here](https://github.com/JungleProgram/pyt
 
 - **Week 1** Python Basics: Control Flow and Lists
 
-- **Week 2** Loops and functions
+- **Week 2** Loops and Functions
 
-- **Week 3** Strings and files
+- **Week 3** Strings and Dictionaries
 
-- **Week 4** Final Project
+- **Week 4** Pandas, Fine Handling and Final Project
 
 #### Find a more detailed description [here](https://www.jungleprogram.com/python-essentials-data-science)
