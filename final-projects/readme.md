@@ -1,4 +1,4 @@
-### Final Project Guidlines 😍 :
+### Final Project Guidelines 😍 :
 
 #### Congratulations for completing the course! I hope you had fun, and learned new, useful things! 🎊
 
