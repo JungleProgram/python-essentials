@@ -23,7 +23,7 @@ You can find a thorough explaniation [here](https://github.com/JungleProgram/pyt
 
 ## How is this course different from all the other courses available online? 🤔
 
-- This course is **especially designed** for data science purposes. You will **start** your coding journey tackling data.
+- This course is **especially designed** for data science purposes. You will **start** your coding journey and tackling data.
 - You receive weekly **personal** feedback on your homework.
 - You can have a 1-on-1 call with the instructor whenever you have a question.
 - You can discuss Pythonic topics on our discord channel.
